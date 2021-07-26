@@ -1,7 +1,7 @@
 # Sebastian's Portfolio
 Main Projects I've been working in statistics, data science and big data.
 
-## [Project 1: Predicting Churn using Gradient Boosting and Logistic Regression](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/churn_notebook.ipynb)
+## [Project 1: Predicting Churn using Gradient Boosting and Logistic Regression](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/Predicting%20Churn%20using%20Gradient%20Boosting%20and%20Logistic%20Regression.ipynb)
 
 
 ### Framing the Business Problem
