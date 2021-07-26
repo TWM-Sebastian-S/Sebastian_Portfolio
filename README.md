@@ -20,6 +20,9 @@ In the following project I will work with the Telecom Company database containin
 ### Conclusions and final comments
 ------
 
+
+
+
 ## Project 2: jkasdkjasd
 
 
