@@ -19,7 +19,7 @@ In the following project I will work with the Telecom Company database containin
 
 ### Conclusions and final comments
 ------
-
+(https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/confusion%20matrix.png)
 
 
 
