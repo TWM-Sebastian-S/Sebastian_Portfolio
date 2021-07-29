@@ -1,7 +1,7 @@
 # Sebastian's Portfolio
 Main Projects I've been working in statistics, data science and big data.
 
-## [Project 1: Predicting Churn using Gradient Boosting and Logistic Regression](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/Predicting%20Churn%20using%20Gradient%20Boosting%20and%20Logistic%20Regression.ipynb)
+## [Project 1: Predicting Churn using Gradient Boosting and Logistic Regression](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/README.md)
 
 
 ### Framing the Business Problem
@@ -21,7 +21,7 @@ In the following project I will work with the Telecom Company database containin
 ------
 
 Inline-style: 
-![alt text](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/confusion%20matrix.png "Confusion Matrix")
+![Confusion Matrix](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/confusion%20matrix.png "Confusion Matrix")
 
 
 
