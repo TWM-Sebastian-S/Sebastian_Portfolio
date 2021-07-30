@@ -5,7 +5,7 @@ Main Projects I've been working in statistics, data science and big data.
 
 #### Extract
 
-A Telecom Company has evidence of customer churn and has provided a dataset with certain information regarding their clients.
+* A Telecom Company has evidence of customer churn and has provided a dataset with certain information regarding their clients.
 
 
 
