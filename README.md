@@ -6,7 +6,14 @@ Main Projects I've been working in statistics, data science and big data.
 
 #### Extract
 
-* A Telecom Company has evidence of customer churn and has provided a dataset with certain information regarding their clients.
+* Machine Learning Project in Python created to find out the key drivers that lead to churn and predict the customer churn for a Telecom Company.
+* The Company has evidence of customer churn and has provided a dataset with certain information regarding their clients.
+* Create models using multiple algorithms:
+* - Logistic Regression
+* - GradientBoosting
+* Perform Hyper-parameter tuning
+* Compare the performance of different models using multiple metrics
+
 
 
 
