@@ -15,6 +15,7 @@ Main Projects I've been working in statistics, data science and big data.
 * Compare the performance of different models using multiple metrics of ROC AUC and Precision Recall Curve.
 * I came up with a gradient boosting model with only the strongest features and a solid performance against Logistic Regression.
 
+![ROC Curve](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/ROC%20curve.JPG "ROC Curve") ![Precision Recall Curve](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/Precision%20Recall%20Curve.JPG "Precision Recall Curve")
 
 
 ## [Project 2: Expedia Hotel Recomendations](https://github.com/TWM-Sebastian-S/Expedia-Hotel-Recomendations/blob/main/README.md)
