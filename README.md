@@ -18,6 +18,8 @@ Main Projects I've been working in statistics, data science and big data.
 ![ROC Curve](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/ROC%20curve.JPG "ROC Curve") ![Precision Recall Curve](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/Precision%20Recall%20Curve.JPG "Precision Recall Curve")
 
 
+![Key drivers of churn](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/Key%20drivers%20of%20churn.JPG "Key drivers of Churn")
+
 ## [Project 2: Expedia Hotel Recomendations](https://github.com/TWM-Sebastian-S/Expedia-Hotel-Recomendations/blob/main/README.md)
 
 ### Extract
