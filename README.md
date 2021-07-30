@@ -8,13 +8,12 @@ Main Projects I've been working in statistics, data science and big data.
 
 * Machine Learning Project in Python created to find out the key drivers that lead to churn and predict the customer churn for a Telecom Company.
 * The Company has evidence of customer churn and has provided a dataset with certain information regarding their clients.
-* Create models using multiple algorithms:
-* - Logistic Regression
-* - GradientBoosting
-* Perform Hyper-parameter tuning
-* Compare the performance of different models using multiple metrics
-
-
+* Engineered features from the dataset to create models using multiple algorithms on Python and Scikit Learn:
+*   Logistic Regression
+*   GradientBoosting
+* Performed Hyper-parameter tuning.
+* Compare the performance of different models using multiple metrics of ROC AUC and Precision Recall Curve.
+* I came up with a gradient boosting model with only the strongest features and a solid performance against Logistic Regression.
 
 
 
