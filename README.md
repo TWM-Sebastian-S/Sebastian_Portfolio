@@ -1,6 +1,8 @@
 # Sebastian's Portfolio
-------
 Main Projects I've been working in statistics, data science and big data.
+------
+
+
 
 ## [Project 1: Predicting Churn using Gradient Boosting and Logistic Regression](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/README.md)
 
@@ -20,6 +22,8 @@ Main Projects I've been working in statistics, data science and big data.
 
 ![Key drivers of churn](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/Key%20drivers%20of%20churn.JPG "Key drivers of Churn")
 
+
+
 ## [Project 2: Expedia Hotel Recomendations](https://github.com/TWM-Sebastian-S/Expedia-Hotel-Recomendations/blob/main/README.md)
 
 ### Extract
@@ -37,7 +41,6 @@ Main Projects I've been working in statistics, data science and big data.
 * I created a function to calculate the probability to include in a basket of 5 options and that increased significantly the percentage of accuracy.
 
 ![Model Performance Comparison](https://github.com/TWM-Sebastian-S/Expedia-Hotel-Recomendations/blob/main/Model%20Performance%20Comparison.JPG "Model Performance Comparison")
-
 
 
 
