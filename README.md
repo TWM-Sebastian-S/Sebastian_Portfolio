@@ -24,7 +24,20 @@ Main Projects I've been working in statistics, data science and big data.
 
 ### Extract
 
-* Machine Learning Project in Python created to recommend hotels to Expedia's customers.
+* Kaggle Competition where I built a Machine Learning Machine Project created to recommend hotels to Expedia's customers.
+* Create models using multiple algorithms with hyperparameter tuning.
+* Compare the performance of different models using jaccard_score.
+* Given that all models tried were performing quite low, I tried several algorithms.
+*   Random Forests
+*   Naive Bayes
+*   Logistic Regression
+*   KNN
+*   XGBoost
+*   Decission Tree
+* I created a function to calculate the probability to include in a basket of 5 options and that increased significantly the percentage of accuracy.
+
+![Model Performance Comparison](https://github.com/TWM-Sebastian-S/Expedia-Hotel-Recomendations/blob/main/Model%20Performance%20Comparison.JPG "Model Performance Comparison")
+
 
 
 
