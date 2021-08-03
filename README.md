@@ -44,7 +44,7 @@ Main Projects I've been working in statistics, data science and big data.
 
 
 
-## [Project 3: Walmart Sales Forecasting](https://github.com/TWM-Sebastian-S/Walmart-Sales-Forecast/blob/main/README.md)
+## [Project 3: Walmart Sales Forecasting - Time Series Analysis](https://github.com/TWM-Sebastian-S/Walmart-Sales-Forecast/blob/main/README.md)
 
 ### Extract
 
