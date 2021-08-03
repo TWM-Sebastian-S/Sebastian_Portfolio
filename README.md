@@ -28,7 +28,7 @@ Main Projects I've been working in statistics, data science and big data.
 
 ### Extract
 
-* Kaggle Competition where I built a Machine Learning Machine Project created to recommend hotels to Expedia's customers.
+* Kaggle Competition where I built a Machine Learning Project created to recommend hotels to Expedia's customers.
 * Create models using multiple algorithms with hyperparameter tuning.
 * Compare the performance of different models using jaccard_score.
 * Given that all models tried were performing quite low, I tried several algorithms.
@@ -46,3 +46,12 @@ Main Projects I've been working in statistics, data science and big data.
 
 ## [Project 3: Walmart Sales Forecasting](https://github.com/TWM-Sebastian-S/Walmart-Sales-Forecast/blob/main/README.md)
 
+### Extract
+
+* Kaggle Competition for time series analysis.
+* Machine Learning Machine Project created to forecast sales for Walmart stores and departments.
+* Statistical, ARIMA and Random Forest Regression models.
+* Compare the performance of different models using RMSE.
+* I created a function to calculate the probability to include in a basket of 5 options and that increased significantly the percentage of accuracy.
+
+![Model Performance Comparison](https://github.com/TWM-Sebastian-S/Expedia-Hotel-Recomendations/blob/main/Model%20Performance%20Comparison.JPG "Model Performance Comparison")
