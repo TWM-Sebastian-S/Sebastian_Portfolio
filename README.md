@@ -49,9 +49,9 @@ Main Projects I've been working in statistics, data science and big data.
 ### Extract
 
 * Kaggle Competition for time series analysis.
-* Machine Learning Machine Project created to forecast sales for Walmart stores and departments.
+* Machine Learning Project created to forecast sales for Walmart stores and departments using time series analysis.
 * Statistical, ARIMA and Random Forest Regression models.
 * Compare the performance of different models using RMSE.
-* I created a function to calculate the probability to include in a basket of 5 options and that increased significantly the percentage of accuracy.
 
-![Model Performance Comparison](https://github.com/TWM-Sebastian-S/Expedia-Hotel-Recomendations/blob/main/Model%20Performance%20Comparison.JPG "Model Performance Comparison")
+![Autocorrelation](https://github.com/TWM-Sebastian-S/Walmart-Sales-Forecast/blob/main/Autocorrelation.JPG "Autocorrelation")
+![Model Performance Comparison](https://github.com/TWM-Sebastian-S/Walmart-Sales-Forecast/blob/main/Comparison%20of%20different%20models.JPG "Model Performance Comparison")
