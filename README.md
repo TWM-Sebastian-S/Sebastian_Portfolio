@@ -58,14 +58,15 @@ Main Projects I've been working in statistics, data science and big data.
 
 
 
-## [Project 4: Deep Learning for Adult Income prediction]()
+## [Project 4: Deep Learning for Adult Income prediction](https://github.com/TWM-Sebastian-S/Deep-Learning-Using-H20-to-predict-Adult-Income/blob/main/README.md)
 
 ### Extract
 
-* Kaggle .
-* Machine Learning Project created to .
-* .
-* Compare the performance .
+* Deep Learning Project in Python created using H2O to find out the best model to predict if an adult will have an annual income of more or less of 50k.
+* UCI Machine Learning Repository dataset. Extraction was done by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted using certain conditions.
+* Prediction task is to determine whether a person makes over 50K a year.
+* I define a grid for hyperparameter that search for the best parameters between activation, epochs and different hidden layers using H2O.
+* According to the hyperparameters, H20 built more than 40 different models that I listed for their F1-score descending. The best model was selected with a 0,71 F1.
 
 ![name](.JPG "name")
 
