@@ -55,3 +55,17 @@ Main Projects I've been working in statistics, data science and big data.
 
 ![Autocorrelation](https://github.com/TWM-Sebastian-S/Walmart-Sales-Forecast/blob/main/Autocorrelation.JPG "Autocorrelation")
 ![Model Performance Comparison](https://github.com/TWM-Sebastian-S/Walmart-Sales-Forecast/blob/main/Comparison%20of%20different%20models.JPG "Model Performance Comparison")
+
+
+
+## [Project 4: Deep Learning for Adult Income prediction]()
+
+### Extract
+
+* Kaggle .
+* Machine Learning Project created to .
+* .
+* Compare the performance .
+
+![name](.JPG "name")
+
