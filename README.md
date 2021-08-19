@@ -75,3 +75,6 @@ Main Projects I've been working in statistics, data science and big data.
 ## [Project 5: ]()
 
 ### Extract
+
+* Deep Learning Project in Python created using H2O to find out the best model to predict if an adult will have an annual income of more or less of 50k.
+* UCI Machine Learning 
