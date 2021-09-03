@@ -72,9 +72,13 @@ Main Projects I've been working in statistics, data science and big data.
 
 
 
-## [Project 5: ]()
+## [Project 5: Customer Basket Market Analysis](https://github.com/TWM-Sebastian-S/Customer-market-basket-analysis)
 
 ### Extract
 
-* Deep Learning Project in Python created using H2O to find out the best model to predict if an adult will have an annual income of more or less of 50k.
-* UCI Machine Learning 
+* Machine Learning Project in Python created using mlextend frequent patterns to create two models using Apriori and FPgrowth algorithms to predict potential baskets of frequently "bought together" products.
+* I've worked with the transactions dataset containing information regarding customers and purchases.
+* I created two different models doing some feature engineering and one hot encoding. I also used and defined the parameters of support, lift and confidence in relation to association rules.
+* Apriori was significantly more computationally expensive with smal thresholds, but as the threshold increase, it lower it's performing time. On the other hand, FPgrowth was faster at the beginning was the decrease rate when decreasing the threshold, was smaller than Apriori.
+
+![Models Performance](https://github.com/TWM-Sebastian-S/Customer-market-basket-analysis/blob/main/Models%20performance.JPG "Models Performance")
